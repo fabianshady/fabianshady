@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fabian Mendoza</h1>
-<h3 align="center">A passionate IT student from Mexico</h3>
+<h3 align="center">A passionate DevOps Engineer from Mexico</h3>
 
-- 🔭 I’m currently working on **DeusChat**
+- 🔭 I’m currently working on **ITJuana - Dexcom**
 
-- 🌱 I’m currently learning **Django and MongoDB**
+- 🌱 I’m currently learning **Golang and GCP**
 
-- 💬 Ask me about **Linux, Docker, React**
+- 💬 Ask me about **Linux, Docker, Scripting**
 
 - 📫 How to reach me **fabianmendoza.py@gmail.com**
 
